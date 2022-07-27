@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+    for(int i=10;i>=1;i--)
+    {
+        printf("%d\n",2*i-1);
+    }
+    getch();
+    return 0;
+}
